@@ -7,7 +7,7 @@ github :: https://github.com/sblrocheeek/Shadowing_tg
  pip install requests
  pip install opencv-python
  pip install pyautogui
- pip instaall pyistaller
+ pip instaall pyinstaller
 3) Создайте тг бота в :: https://t.me/BotFather
 4) Зайдите в файл Win64Helper.py и вставьте в token(10 строка) свой токен от бота (которого вы создали в https://t.me/BotFather)
 5) Сохраните изменённый Win64Helper.py Затем запустите exe.bat и ждите компиляции файла
