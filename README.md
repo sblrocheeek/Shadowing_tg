@@ -1,5 +1,5 @@
 telegram :: https://t.me/sblro4eeek
-github :: 
+github :: https://github.com/sblrocheeek/Shadowing_tg
 
 1) Установите Python 3.7.5 (ОБЯЗАТЕЛЬНО)
 2) Пропишите следующие команды в cmd (ОБЯЗАТЕЛЬНО):
