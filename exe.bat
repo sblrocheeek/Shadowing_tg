@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=exe.ico Win64Helper.py
